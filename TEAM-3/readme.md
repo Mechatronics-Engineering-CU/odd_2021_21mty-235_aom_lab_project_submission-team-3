@@ -1,8 +1,8 @@
-**Applications Of Electromyography**
+# **Applications Of Electromyography**
 
 
 
-**Team details :**
+## **Team details** :
 
 
 **1) Ankit**
@@ -32,30 +32,32 @@ Yashikkumar
 
 
  
-**Project Overview**
+## **Project Overview**
  
 Our project focuses on acquiring raw EMG signals from the targeted muscles and processing it to make it usable to control any device like a bionic arm or gesture based controller. Here we have used RGB led and the concept of colour mixing to display the amount of flexion of our muscle through various colours.
 We have used an EMG sensor by Advancer Technologies which uses surface electrodes to carry signals from targeted muscle to the sensor. It has 5 pins which includes +Vs, GND of Voltage source, -Vs, sig(signal) and common ground pin for sensor and Arduino Uno. The Signal pin can be connected to any analog pin of the Arduino Uno board. Also this board has an onboard  filter circuit to give the processed data and a potentiometer for adjusting the gain.
   
  
-**Setup Requirements**
+## **Setup Requirements**
 
 For acquiring the EMG signal, we basically require five things which includes 
  
-1) Electrodes : these carry signals from muscles to the EMG sensor.
+### 1) Electrodes : these carry signals from muscles to the EMG sensor.
  
-2) EMG sensor : It is a circuit consisting of an onboard amplifier and filters to process the raw EMG signal (0-10 mV) taken from muscles through electrodes and converts into a signal which any microcontroller like arduino can read.  In our project we are using an EMG sensor from advancer technologies.
+### 2) EMG sensor : It is a circuit consisting of an onboard amplifier and filters to process the raw EMG signal (0-10 mV) taken from muscles through electrodes and converts into a signal which any microcontroller like arduino can read.  In our project we are using an EMG sensor from advancer technologies.
  
-3) Microcontroller : To receive data from an EMG sensor and display it in a laptop or oscilloscope.
+### 3) Microcontroller : To receive data from an EMG sensor and display it in a laptop or oscilloscope.
  
-4) Laptop or oscilloscope : To display data received from the EMG sensor.
+### 4) Laptop or oscilloscope : To display data received from the EMG sensor.
  
-5) Software: Matlab R2021a for uploading code
+### 5) Software: Matlab R2021a for uploading code
  
 6) Rgb Led : To display the intensity
 
+# **Schematics**
 
-**Matlab Code :**
+![EMG sensor](https://electropeak.com/learn/wp-content/uploads/2021/02/EMG-Circuit.jpg)
+# **Matlab Code :**
 
     close all;
     clc;
@@ -104,12 +106,12 @@ For acquiring the EMG signal, we basically require five things which includes
     
 
 
-**Learning Outcomes:**
+# **Learning Outcomes:**
 
 After completion of this paper, we got to know about how a research paper is formulated and presented.
-From the research we did, we learned about EMG sensors, their applications, and their importance in human life. 
-We got to know many areas of interest where we can work in the future, related to EMG. 
-The scope of EMG is enormous. We learned how the bionic arms, prosthetic legs, mobility assistance robots, etc work. 
-It was really an informative and interesting period of time making this paper. 
+- From the research we did, we learned about EMG sensors, their applications, and their importance in human life. 
+- We got to know many areas of interest where we can work in the future, related to EMG. 
+- The scope of EMG is enormous. We learned how the bionic arms, prosthetic legs, mobility assistance robots, etc work. 
+- It was really an informative and interesting period of time making this paper. 
 
 
