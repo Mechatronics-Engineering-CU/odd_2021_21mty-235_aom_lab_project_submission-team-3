@@ -52,7 +52,7 @@ For acquiring the EMG signal, we basically require five things which includes
  
 ### 5) Software: Matlab R2021a for uploading code
  
-6) Rgb Led : To display the intensity
+### 6) Rgb Led : To display the intensity
 
 # **Schematics**
 
