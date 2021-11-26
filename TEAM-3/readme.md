@@ -6,29 +6,19 @@
 
 
 **1) Ankit**
-20BEM1018
-ankitchawla300@gmail.com
-ankitchawla071
+20BEM1018  ankitchawla300@gmail.com   ankitchawla071
 
 **2) Vansh Aggarwal**
-20BEM1030
-vanshaggarwal2305@gmail.com
-Vansh2302
+20BEM1030  vanshaggarwal2305@gmail.com   Vansh2302
 
 **3) Vineet Sharda**
-20BEM1016
-vinisharda2003@gmail.com
-01Vineet
+20BEM1016  vinisharda2003@gmail.com    01Vineet
 
 **4) Malavika S**
-20BEM1026
-sureshmalavika724@gmail.com
-malu12842
+20BEM1026  sureshmalavika724@gmail.com   malu12842
 
 **5) Yashik Kumar**
-20BEM1034
-yashiksharma5@gmail.com
-Yashikkumar
+20BEM1034   yashiksharma5@gmail.com   Yashikkumar
 
 
  
