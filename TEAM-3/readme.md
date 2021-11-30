@@ -104,7 +104,8 @@ For acquiring the EMG signal, we basically require five things which includes
     cm=cm+1;
     End
     
-
+# **Video Demonstration :**
+[![Watch the video](https://img.youtube.com/vi/4HnMyKBTaIQ/maxresdefault.jpg)](https://youtu.be/4HnMyKBTaIQ)
 
 # **Learning Outcomes:**
 
