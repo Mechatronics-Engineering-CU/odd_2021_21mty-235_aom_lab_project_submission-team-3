@@ -8,17 +8,13 @@
 # LAB REPORT RUBRICS & SAMPLE 
 [Check here](https://sway.office.com/KmOBQZqKghntgrCx)
 
-## PROJECT ALLOCATED:
+## PROJECT ALLOCATED
+
+# **Applications Of Electromyography** :rocket:
 
 
+## **Team details** :+1:
 [TEAM-3](https://github.com/orgs/Mechatronics-Engineering-CU/teams/odd2021_project_applications_of_matlab_team-3)
-
-# **Applications Of Electromyography**
-
-
-
-## **Team details** :
-
 
 **1) Ankit**
 20BEM1018
