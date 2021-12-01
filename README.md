@@ -1,6 +1,10 @@
 ![Department of Mechatronics Engineering, Chandigarh University](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/main/IMAGE_DATA/banner.PNG)
         
-# Applications-of-Matlab 
+# [Applications-of-Matlab-21MTY-254](https://github.com/Mechatronics-Engineering-CU/Applications-of-Matlab)
+
+[Course Instructor - Prof. ANURAG SHARMA](https://github.com/designerguy13-photonics)
+
+[CHANDIGARH UNIVERSITY](https://github.com/ChandigarhUniv)
 # LAB REPORT RUBRICS & SAMPLE 
 [Check here](https://sway.office.com/KmOBQZqKghntgrCx)
 
